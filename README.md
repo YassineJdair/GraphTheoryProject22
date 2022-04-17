@@ -1,6 +1,6 @@
 <h1>README</h1>
 
-
+<p>
     <b>Student: Yassine Jdair</b>
     <br>
     <b>ID: G00377375.</b>
@@ -8,6 +8,7 @@
     <b>Module: Graph Theory</b>
     <br>
     <b>Lecturer: Dr. Ian McLoughlin.</b>
+</p>
 
 
 ***
