@@ -1,14 +1,14 @@
-<h1><center> README </center></h1>
+<h1>README</h1>
 
-<center>
+
     <b>Student: Yassine Jdair</b>
     <br>
     <b>ID: G00377375.</b>
     <br>
-  <b>Module: Graph Theory</b>
+    <b>Module: Graph Theory</b>
     <br>
     <b>Lecturer: Dr. Ian McLoughlin.</b>
-</center>
+
 
 ***
 
