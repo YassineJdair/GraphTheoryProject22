@@ -54,8 +54,11 @@ pip install notebook
 
 ### Running in a local installation
 
+Clone Repo:
+```sh
+    $ git clone "https://github.com/YassineJdair/GraphTheoryProject22"
+```
 Launch with:
-
 ```bash
 jupyter notebook
 ```
