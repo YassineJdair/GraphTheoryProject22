@@ -44,7 +44,7 @@ The documentation for advanced usage of Jupyter notebook can be found
 [here](https://jupyter-notebook.readthedocs.io/en/latest/).
 
 For a local installation, make sure you have
-[pip installed](https://pip.readthedocs.io/en/stable/installing/) and run:
+[pip installed](https://pip.pypa.io/en/stable/installation/) and run:
 
 ```bash
 pip install notebook
